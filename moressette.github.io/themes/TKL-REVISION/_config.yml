@@ -1,0 +1,67 @@
+# config
+title:  流沙 | Moressette
+subtitle: Moressette's blog
+author: Moressette
+language: zh-Hans
+email: wangcong9614@hotmail.com #联系邮箱
+url: http://moressette.com
+
+cover: /img/bg_img.jpg
+logo: /img/logo.png
+logoc: /img/favicon.png
+top_saying:
+- title: Tempora mutantur,nos et mutamur in illis. WELCOME.
+- content: 每一个不曾起舞的日子都是对生命的辜负
+bottom_saying:  Think twice , code once .
+# theme_pics_server: http://qcyoung.qiniudn.com/qcyoung/
+# Content
+excerpt_link: Read More
+
+rss: /atom.xml
+
+highlightjs: vs
+
+#Works
+works:
+# - works_name: AAA
+#   works_url: /
+# - works_name: BBB
+#   works_url: /atom.xml
+
+#duoshuo name
+duoshuo_shortname: Moressette
+
+# Disqus
+# disqus_shortname: Moressete
+
+# Miscellaneous
+GitHub: https://github.com/Moressete
+Twitter: https://twitter.com/Moressete
+Weibo: http://weibo.com/LiushaCC
+ZhiHu: https://www.zhihu.com/people/CCLiusha
+
+#Links
+links:
+- name: CSDN
+  link: http://blog.csdn.net/wangcong9614
+  description: 我的CSDN博客
+- name: MDN
+  link: https://developer.mozilla.org/zh-CN/
+  description: Mozilla Developer Network
+- name: Kieran
+  link: http://go.kieran.top/
+  description: 最初主题原创者
+
+#Project
+projects:
+- name: Mozilla Support
+  link: https://support.mozilla.org/zh-CN/localization
+- name: Mozilla Developer Center
+  link: https://developer.mozilla.org/zh-CN/
+# - name: Resume
+  # link: http://qcyoung.com/project/resume
+
+#Analytics
+cnzz: true  
+cnzzaccount: 1260773042
+
