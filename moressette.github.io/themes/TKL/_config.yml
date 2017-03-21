@@ -2,8 +2,8 @@
 cover: /img/bg_img.jpg
 logo: /img/logo.png
 top_saying:
-- title: Tempora mutantur,nos et mutamur in illis, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
+- title: Credo te in occursum meum non statur
+- content: 我相信你正在与我相遇的路上马不停蹄
 bottom_saying: Think twice , code once .
 # Content
 excerpt_link: Read More
@@ -11,13 +11,6 @@ excerpt_link: Read More
 rss: /atom.xml
 
 highlightjs: vs
-
-#Works
-works:
-- works_name: AAA
-  works_url: /
-- works_name: BBB
-  works_url: /atom.xml
 
 #duoshuo name
 duoshuo: Moressette
@@ -32,13 +25,19 @@ weibo: http://weibo.com/
 #about  timeline
 timeline:
 - num: 1
-  word: 2014/06/12-Start
+  word: 1996/01/04-Hello world .
 - num: 2
-  word: 2014/11/29-XXX
+  word: 2014/10/10-An ACMER .
 - num: 3
-  word: 2015/02/18-DDD
+  word: 2016/09/12-A growing front-end engineer.
 - num: 4
-  word: More
+  word: 2016/12/14-Long time no see , Awen .
+- num: 5
+  word: 2017/01/01-You are my world , Awen .
+- num: 6
+  word: 2017/02/14-Home is where the hearthstone is.  @Beijing
+- num: 7
+  word: Continue...
 
 #Links
 links:
@@ -46,3 +45,5 @@ links:
   link: http://blog.csdn.net/wangcong9614
 - name: MDN
   link: https://developer.mozilla.org/zh-CN/
+- name: ❤Awen
+  link: http://awendesign.cc
